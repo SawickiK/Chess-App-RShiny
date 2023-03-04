@@ -1,6 +1,6 @@
 # Chess-App-RShiny
 
-Krzysztof Sawicki, Jakub Grzywaczewski, [Kacper Wnęk](https://github.com/KacWNK)
+Krzysztof Sawicki, [Jakub Grzywaczewski](https://github.com/ZetrextJG), [Kacper Wnęk](https://github.com/KacWNK)
 
 # About the project
 
